@@ -1,0 +1,38 @@
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\bin\Debug\H-Player.exe
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\bin\Debug\H-Player.pdb
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\bin\Debug\H-Player.xml
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\obj\Debug\H-Player.vbproj.ResolveComReference.cache
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\obj\Debug\H_Player.Form1.resources
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\obj\Debug\H_Player.Resources.resources
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\obj\Debug\H-Player.vbproj.GenerateResource.Cache
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\obj\Debug\H-Player.exe
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\obj\Debug\H-Player.xml
+C:\Users\thehaohcm\AppData\Local\Temporary Projects\H-Player\obj\Debug\H-Player.pdb
+D:\Visual-Studio\VB.Net\H-Player\H-Player\bin\Debug\H-Player.exe
+D:\Visual-Studio\VB.Net\H-Player\H-Player\bin\Debug\H-Player.pdb
+D:\Visual-Studio\VB.Net\H-Player\H-Player\bin\Debug\H-Player.xml
+D:\Visual-Studio\VB.Net\H-Player\H-Player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Visual-Studio\VB.Net\H-Player\H-Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H-Player.vbproj.ResolveComReference.cache
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H_Player.Form1.resources
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H_Player.Resources.resources
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H-Player.vbproj.GenerateResource.Cache
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H-Player.exe
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H-Player.xml
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H-Player.pdb
+D:\Visual-Studio\VB.Net\H-Player\H-Player\bin\Debug\Interop.WMPLib.dll
+D:\Visual-Studio\VB.Net\H-Player\H-Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\Interop.WMPLib.dll
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H_Player.About.resources
+D:\Visual-Studio\VB.Net\H-Player\H-Player\bin\Debug\H-Player.exe.manifest
+D:\Visual-Studio\VB.Net\H-Player\H-Player\bin\Debug\H-Player.application
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H-Player.exe.manifest
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H-Player.application
+D:\Visual-Studio\VB.Net\H-Player\H-Player\obj\Debug\H_Player.Form2.resources

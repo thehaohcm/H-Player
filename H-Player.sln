@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "H-Player", "H-Player\H-Player.vbproj", "{8749A284-511B-42CA-8B28-52A491C00C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8749A284-511B-42CA-8B28-52A491C00C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8749A284-511B-42CA-8B28-52A491C00C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8749A284-511B-42CA-8B28-52A491C00C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8749A284-511B-42CA-8B28-52A491C00C29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
